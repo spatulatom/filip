@@ -8,6 +8,7 @@
     color: white;
     font-family: "Poppins", sans-serif;
     min-height: 100vh;
+    /* display: flex; */
   }
   header {
     font-size: 2rem;
@@ -23,7 +24,7 @@
   form input,
   form button {
     padding: 0.5rem;
-    font-size: 2rem;
+    font-size: 1rem;
     border: none;
     background: white;
   }
@@ -51,7 +52,7 @@
   .todo {
     margin: 0.5rem;
     background: white;
-    font-size: 1.5rem;
+    font-size: 1rem;
     color: black;
     display: flex;
     justify-content: space-between;
